@@ -1,0 +1,1 @@
+data are reading  using the readiable stram from input.txt file
