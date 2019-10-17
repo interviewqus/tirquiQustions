@@ -571,7 +571,12 @@ console.log(newstrings)
 
 //Q.41:  copy object value with out any method and for loop;
 
-//Q.42:
+//Q.42: what will be output of following snepits.
+console.log(++[+[]]);
+console.log(++[+[2]]);
+console.log(+[]);
+console.log(=null);
+
 //Q.43:
 //Q.44:
 //Q.45:
