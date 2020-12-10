@@ -190,6 +190,11 @@ Number.isNaN(0 / 0) //true
 // or
 // document.getElementById("myText").className = "anyclass";
 // Q.16.  parseInt ("4F", 17);
+// Note :
+//The parseInt() function parses a string and returns an integer. 
+//The radix parameter is used to specify which numeral system to be used,
+//for example, a radix of 16 (hexadecimal) indicates that the number in the string 
+//should be parsed from a hexadecimal number to a decimal number.
 // Ans:   83
 //    Solution:
    // F = 15
